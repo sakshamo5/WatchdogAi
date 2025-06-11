@@ -125,7 +125,3 @@ For questions, feedback:
 
 - **Email:** [saksham05singhal@gmail.com.com]
 
-
----
-
-> _Empowering safer environments with AI-driven surveillance._

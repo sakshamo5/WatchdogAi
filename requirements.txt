@@ -1,0 +1,8 @@
+opencv-python
+numpy
+tensorflow
+Pillow
+twilio
+requests
+tk
+python-dotenv

@@ -1,6 +1,6 @@
 # WatchDog AI
 
-**AI-Powered Real-Time Violence Detection and Surveillance System**
+**DL-Powered Real-Time Violence Detection and Surveillance System**
 
 ---
 Quick demo :https://drive.google.com/file/d/1pkC5YTBKbNAN4mZOWUIcSnn0LSuEMOm9/view?usp=sharing
